@@ -1,0 +1,23 @@
+.header, .hero, .body, .bar, .footer{
+	background-color:#164843;
+	margin-bottom: 12px;
+}
+.box{
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	height:80px;
+	background-color:gray;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+.yellow{
+	color: black;
+	background-color: yellow;
+
+	}
+
+.blue{
+	color: aqua;
+	background-color: blue;
+}
